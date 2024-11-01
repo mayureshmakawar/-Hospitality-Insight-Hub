@@ -1,8 +1,7 @@
 # -Hospitality-Insight-Hub
 A dashboard to explore revenue, bookings, and performance metrics in the hospitality industry.
 
-![Hospitality Insight Hub]([./path/to/Screenshot_2024-11-01_232216.pn](https://github.com/mayureshmakawar/-Hospitality-Insight-Hub/blob/main/Screenshot%202024-11-01%20232216.png)
-
+![Hospitality Insight Hub](https://github.com/mayureshmakawar/-Hospitality-Insight-Hub/blob/main/Screenshot%202024-11-01%20232216.png)
 
 ## 🔗 Live Dashboard
 
