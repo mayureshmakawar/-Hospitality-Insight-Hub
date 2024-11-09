@@ -2,7 +2,7 @@
 
 A Power BI dashboard providing insights into revenue, bookings, and occupancy metrics across cities, room types, and booking platforms for the hospitality industry. Helps identify top-performing areas and optimize strategies for growth.
 
-## Overviwe Of Dashbord
+## Overview Of Dashbord
 ![Hospitality Insight Hub](https://github.com/mayureshmakawar/-Hospitality-Insight-Hub/blob/main/Screenshot%202024-11-01%20232216.png)
 
 ## 🔗 Live Dashboard
